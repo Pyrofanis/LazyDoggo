@@ -1,0 +1,258 @@
+{
+    "name": "LazyDoggoInputs",
+    "maps": [
+        {
+            "name": "PcAndConsole",
+            "id": "fad6a35a-f646-4a74-83c6-aeab3c865772",
+            "actions": [
+                {
+                    "name": "UpVertical",
+                    "type": "Button",
+                    "id": "48fbeefd-c1a8-44ed-a555-7ddc60cd8e24",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "DownVertical",
+                    "type": "Button",
+                    "id": "464531a6-b9d8-4259-a39a-55a8708d0c43",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "UpHorizontal",
+                    "type": "Button",
+                    "id": "2ea045d7-e244-446b-8efd-25aa81c06c23",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "DownHorizontal",
+                    "type": "Button",
+                    "id": "ddb6a383-1a56-4455-ac68-2eec3f4d05da",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "EscapeButton",
+                    "type": "Button",
+                    "id": "4a328fc4-b12e-413a-84aa-2d64c9f224cc",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "f81d3818-8105-4f1b-845c-cda6f6df1843",
+                    "path": "<Keyboard>/upArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "MainControllScheme",
+                    "action": "UpVertical",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "a9c34e2b-34d6-4e24-bdb7-de2c1fe82625",
+                    "path": "<Keyboard>/w",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "MainControllScheme",
+                    "action": "UpVertical",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "a4f389f0-d420-43c2-8e4d-8f0267e00de9",
+                    "path": "<Gamepad>/dpad/up",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "MainControllScheme",
+                    "action": "UpVertical",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "73917e1a-88db-4f30-a73b-0775bd60c553",
+                    "path": "<Gamepad>/leftStick/up",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "MainControllScheme",
+                    "action": "UpVertical",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "79430dcf-0870-4107-8f7c-18e5150dc0fa",
+                    "path": "<Keyboard>/s",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "MainControllScheme",
+                    "action": "DownVertical",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "68e1a1e3-4856-41ed-b1ff-41a7e346701a",
+                    "path": "<Keyboard>/downArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "MainControllScheme",
+                    "action": "DownVertical",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "9350a4f3-83f7-4962-b1c9-743f24a6661f",
+                    "path": "<Gamepad>/leftStick/down",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "MainControllScheme",
+                    "action": "DownVertical",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "97ab55a0-7d30-4517-9836-eafa099a97cd",
+                    "path": "<Gamepad>/dpad/down",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "MainControllScheme",
+                    "action": "DownVertical",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "d25b7853-64d5-48da-8844-2f199f874493",
+                    "path": "<Gamepad>/dpad/left",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "MainControllScheme",
+                    "action": "UpHorizontal",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "630aa8aa-d15e-451e-a164-a3a475c98d73",
+                    "path": "<Gamepad>/leftStick/left",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "MainControllScheme",
+                    "action": "UpHorizontal",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "9c0ae799-8410-4990-a922-3f206845ec35",
+                    "path": "<Keyboard>/a",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "MainControllScheme",
+                    "action": "UpHorizontal",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "4c1d183c-0cad-4028-b02f-68c8a6c36f12",
+                    "path": "<Keyboard>/leftArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "MainControllScheme",
+                    "action": "UpHorizontal",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "46a649b4-99e7-43c1-9c27-ada669e6363b",
+                    "path": "<Keyboard>/d",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "MainControllScheme",
+                    "action": "DownHorizontal",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "4aac62f9-63cd-491c-b672-722e3992e440",
+                    "path": "<Keyboard>/rightArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "MainControllScheme",
+                    "action": "DownHorizontal",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "84cab34a-3d8c-4581-92ba-1d502869e614",
+                    "path": "<Gamepad>/leftStick/right",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "MainControllScheme",
+                    "action": "DownHorizontal",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "2ba2a073-96cb-4614-853f-7c516f02e9f9",
+                    "path": "<Gamepad>/dpad/right",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "MainControllScheme",
+                    "action": "DownHorizontal",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "5b06e2e4-3903-4119-98ac-768c81cba8ee",
+                    "path": "<Gamepad>/buttonEast",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "EscapeButton",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "22076243-dca7-47fb-ae09-cfc751bebe38",
+                    "path": "<Keyboard>/escape",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "EscapeButton",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "MainControllScheme",
+            "bindingGroup": "MainControllScheme",
+            "devices": []
+        }
+    ]
+}

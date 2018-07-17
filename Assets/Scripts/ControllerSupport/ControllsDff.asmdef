@@ -1,0 +1,19 @@
+{
+    "name": "ControllsDff",
+    "rootNamespace": "",
+    "references": [
+        "GUID:5b3e1204cfb063642829ce009fbec3b1",
+        "GUID:343deaaf83e0cee4ca978e7df0b80d21",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:370530d5642d9e945ad982192b2682ed"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
